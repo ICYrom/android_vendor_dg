@@ -1,0 +1,36 @@
+DrewGaren ICY+
+===============
+
+Visit http://github.com/ICYrom for full git access.
+
+Visit http://drewgaren.com for site news and new romes.
+
+Follow http://twitter.com/drewgaren updates
+
+Maintainers:
+------------
+* Nexus One: DrewGaren
+* Nexus S: DrewGaren
+* Encore (Nook Color): DrewGaren
+* Galaxy S (GT-I9000): DrewGaren
+* Galaxy S II (GT-I9100): DrewGaren
+* Galaxy Nexus GSM/LTE: DrewGaren
+* XOOM WIFI/LTE: DrewGaren
+
+CHANGELOG (notable new features)
+---------
+
+### 6.0.0
+* Common: Android 4.0.3 (Google)
+* Common: CyanogenMod Profiles (Google)
+* Common: CyanogenMod Trebuchet (BamTau Mods)
+* Common: CyanogenMod System Tweaks Cleaned Up
+* Common: Toggle Widgets
+* Common: Performance Settings
+* Common: Enhanced Performance init.d scripts
+* Common: MIUI File Manager
+* Common: 4.0.4 Gapps
+* Common: Latest Superuser app - ChainsDD
+* Common: EFS Backup
+* Common: Option of TouchWiz Launcher
+* view all updates at DrewGaren.com
